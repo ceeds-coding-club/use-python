@@ -1,0 +1,3 @@
+[submodule "demos/python-gis-demo"]
+	path = demos/python-gis-demo
+	url = https://github.com/ceeds-coding-club/python-gis-demo
