@@ -1,0 +1,36 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
+  - ca-certificates=2021.4.13=h06a4308_1
+  - certifi=2020.12.5=py37h06a4308_0
+  - ld_impl_linux-64=2.35.1=hea4e1c9_2
+  - libblas=3.9.0=9_openblas
+  - libcblas=3.9.0=9_openblas
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.3.0=h2828fa1_19
+  - libgfortran-ng=9.3.0=hff62375_19
+  - libgfortran5=9.3.0=hff62375_19
+  - libgomp=9.3.0=h2828fa1_19
+  - liblapack=3.9.0=9_openblas
+  - libopenblas=0.3.15=pthreads_h8fe5266_0
+  - libstdcxx-ng=9.3.0=h6de172a_19
+  - ncurses=6.2=he6710b0_1
+  - numpy=1.20.2=py37h038b26d_0
+  - openssl=1.1.1k=h27cfd23_0
+  - pip=21.0.1=py37h06a4308_0
+  - python=3.7.10=hffdb5ce_100_cpython
+  - python_abi=3.7=1_cp37m
+  - readline=8.1=h27cfd23_0
+  - setuptools=52.0.0=py37h06a4308_0
+  - sqlite=3.35.4=hdfb4753_0
+  - tk=8.6.10=hbc83047_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - convertbng==0.6.25
+prefix: /home/sharrison/miniconda3/envs/myenv
