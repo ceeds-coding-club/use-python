@@ -11,6 +11,6 @@ We have a Slack channel where we communicate. Message Sam Harrison if you'd like
 - 30 March 2021 - Intro to NetCDF using `iris` and `xarray`, Matt Amos. [Demo materials here.](demos/netcdf-xarray-iris-slides)
 - 13 April 2021 - Intro to GIS tools `geopandas`, `rasterio` and `rioxarray`, Sam Harrison. [Demo materials here.](https://github.com/ceeds-coding-club/python-gis-demo)
 - 27 April 2021 - Drop-in session on geospatial tools.
-- 11 May 2021 - Intro to Conda package management, Sam Harrison.
+- 11 May 2021 - Intro to Conda package management, Sam Harrison. [Demo materials here.](demos/conda)
 - 25 May 2021 - Random forests in `scikit-learn`, Diarmuid Corr.
 - 8 June 2021 - Show-and-tell drop in, loosely focussed on previous session themes (geospatial, Conda and scikit-learn/ML packages)
